@@ -1,0 +1,8 @@
+C:\Users\Kerem\source\repos\stajçalışma2\stajçalışma2\bin\Debug\stajçalışma2.exe.config
+C:\Users\Kerem\source\repos\stajçalışma2\stajçalışma2\bin\Debug\stajçalışma2.exe
+C:\Users\Kerem\source\repos\stajçalışma2\stajçalışma2\bin\Debug\stajçalışma2.pdb
+C:\Users\Kerem\source\repos\stajçalışma2\stajçalışma2\obj\Debug\stajçalışma2.csproj.AssemblyReference.cache
+C:\Users\Kerem\source\repos\stajçalışma2\stajçalışma2\obj\Debug\stajçalışma2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kerem\source\repos\stajçalışma2\stajçalışma2\obj\Debug\stajçalışma2.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\source\repos\stajçalışma2\stajçalışma2\obj\Debug\stajçalışma2.exe
+C:\Users\Kerem\source\repos\stajçalışma2\stajçalışma2\obj\Debug\stajçalışma2.pdb
